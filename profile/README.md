@@ -1,12 +1,6 @@
-## Hi there 👋
+<img width="800" height="100" alt="welcome to krypton" src="https://github.com/user-attachments/assets/668b7b02-31c9-42cd-bbdd-3af1573c5391" />
+<hr>
 
-<!--
+Welcome to krypton Innovations. You ask, we make. We're an all around technology commissioning and hosting service.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Founded 7 June 2026, our main goal is to make sure your services are done right. From small services to basic software, our team of experienced developers will satisfy your needs.
